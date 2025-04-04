@@ -10,7 +10,7 @@
 
 ```
 sudo apt update
-sudo apt install fontconfig openjdk-17-jre
+sudo apt install openjdk-11-jdk
 java -version
 ```
 
