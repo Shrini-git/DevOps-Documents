@@ -10,7 +10,7 @@
 
 ```
 sudo apt update
-sudo apt install openjdk-20-jdk
+sudo apt install openjdk-21-jre-headless
 java -version
 ```
 
