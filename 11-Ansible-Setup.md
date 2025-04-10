@@ -3,11 +3,11 @@
 ## Step-0: Create 3 Amazon Linux VMs in AWS (Free Tier Eligible - t2.micro)
 
 1 - Control Node <br/>
-2 - Managed Nodes
+2 - Managed Nodes / host Nodes
 
 Note: Connect to all 3 VMs using MobaXterm
 
-## Step-1: Execute below commands in all 3 VMs ##
+## Step-1: Setup User and Configure user in sudoers file and update SSHD Config File. Execute below commands in all 3 VMs ##
 
 ### a) Create user ###
 ```
